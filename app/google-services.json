@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "332678742721",
+    "firebase_url": "https://gcmtest-69f16.firebaseio.com",
+    "project_id": "gcmtest-69f16",
+    "storage_bucket": "gcmtest-69f16.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:332678742721:android:043b1876801f327e",
+        "android_client_info": {
+          "package_name": "science.zxc.fcmtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "332678742721-o6lt84ie10tmheh4rfu7f0f2gutnehba.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKBmmFtQTk_rrgxaU_5FJxshRhPKjQXSY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
